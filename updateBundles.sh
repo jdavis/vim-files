@@ -1,5 +1,11 @@
 # Go to the directory
-builtin cd ~/.vim/bundle
+builtin cd ~/.vim/
+
+if [[ ! -d bundle ]] ; then
+	mkdir bundle
+fi
+
+builtin cd bundle
 
 # Vim plugins
 git clone https://github.com/scrooloose/nerdtree.git

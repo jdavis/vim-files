@@ -1,1 +1,3 @@
 sessions/*
+*.swp
+.DS_STORE
