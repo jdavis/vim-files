@@ -15,6 +15,8 @@ git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
 git clone https://github.com/tomtom/tlib_vim.git
 git clone https://github.com/msanders/cocoa.vim.git
 git clone https://github.com/ervandew/supertab.git
+#git clone https://github.com/scrooloose/snipmate-snippets.git scrooloose-snippets
+git clone https://github.com/scrooloose/nerdcommenter.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
