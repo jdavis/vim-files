@@ -18,6 +18,7 @@ git clone https://github.com/ervandew/supertab.git
 #git clone https://github.com/scrooloose/snipmate-snippets.git scrooloose-snippets
 git clone https://github.com/scrooloose/nerdcommenter.git
 git clone https://github.com/tpope/vim-surround.git
+git clone https://github.com/edsono/vim-matchit.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
