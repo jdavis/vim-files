@@ -19,6 +19,8 @@ git clone https://github.com/ervandew/supertab.git
 git clone https://github.com/scrooloose/nerdcommenter.git
 git clone https://github.com/tpope/vim-surround.git
 git clone https://github.com/edsono/vim-matchit.git
+git clone https://github.com/Raimondi/delimitMate.git
+git clone https://github.com/docunext/closetag.vim.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
