@@ -23,6 +23,7 @@ git clone https://github.com/edsono/vim-matchit.git
 #git clone https://github.com/docunext/closetag.vim.git
 git clone https://github.com/sukima/xmledit.git
 git clone https://github.com/Townk/vim-autoclose.git
+git clone https://github.com/jistr/vim-nerdtree-tabs.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
