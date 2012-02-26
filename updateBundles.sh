@@ -21,9 +21,12 @@ git clone https://github.com/tpope/vim-surround.git
 git clone https://github.com/edsono/vim-matchit.git
 #git clone https://github.com/Raimondi/delimitMate.git
 #git clone https://github.com/docunext/closetag.vim.git
-git clone https://github.com/sukima/xmledit.git
+#git clone https://github.com/sukima/xmledit.git
 git clone https://github.com/Townk/vim-autoclose.git
 git clone https://github.com/jistr/vim-nerdtree-tabs.git
+git clone https://github.com/scrooloose/syntastic.git
+git clone https://github.com/wincent/Command-T.git
+git clone https://github.com/majutsushi/tagbar.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
