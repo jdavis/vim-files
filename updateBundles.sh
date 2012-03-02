@@ -27,6 +27,7 @@ git clone https://github.com/jistr/vim-nerdtree-tabs.git
 git clone https://github.com/scrooloose/syntastic.git
 git clone https://github.com/wincent/Command-T.git
 git clone https://github.com/majutsushi/tagbar.git
+git clone https://github.com/hallettj/jslint.vim.git
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
