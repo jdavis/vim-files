@@ -28,6 +28,8 @@ git clone https://github.com/scrooloose/syntastic.git
 git clone https://github.com/wincent/Command-T.git
 git clone https://github.com/majutsushi/tagbar.git
 git clone https://github.com/hallettj/jslint.vim.git
+git clone https://github.com/tpope/vim-fugitive.git
+
 
 # Update all of the bundles just in case.
 for path in `ls ~/.vim/bundle`
