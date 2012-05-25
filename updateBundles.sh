@@ -26,11 +26,7 @@ git clone https://github.com/ervandew/supertab.git
 # Various commenting capabilities
 git clone https://github.com/scrooloose/nerdcommenter.git
 
-# I don't use this to it's full capabilities...
-#git clone https://github.com/tpope/vim-surround.git
-
 # Matches stuff... lol
-#git clone https://github.com/edsono/vim-matchit.git
 
 # Autocloses characters
 git clone https://github.com/Townk/vim-autoclose.git
@@ -45,13 +41,20 @@ git clone https://github.com/hallettj/jslint.vim.git
 # Vim and Git, sayyyy whatttt
 git clone https://github.com/tpope/vim-fugitive.git
 
-# Old and stale plugins
+# Pyflake as well as PEP8 within VIM
+git clone https://github.com/nvie/vim-flake8.git
+
+# Old plugins
 #git clone https://github.com/Raimondi/delimitMate.git
 #git clone https://github.com/docunext/closetag.vim.git
 #git clone https://github.com/sukima/xmledit.git
 #git clone https://github.com/msanders/cocoa.vim.git
 #git clone https://github.com/scrooloose/snipmate-snippets.git scrooloose-snippets
+
+# Plugins I didn't use enough...
 #git clone https://github.com/majutsushi/tagbar.git
+#git clone https://github.com/tpope/vim-surround.git
+#git clone https://github.com/edsono/vim-matchit.git
 
 
 # Update all of the bundles just in case.
