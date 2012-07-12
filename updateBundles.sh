@@ -47,6 +47,9 @@ git clone https://github.com/nvie/vim-flake8.git
 # Conque allows a shell within Vim
 git clone https://github.com/lrvick/Conque-Shell.git
 
+# Ack Plugin
+git clone https://github.com/mileszs/ack.vim.git
+
 # Old plugins
 #git clone https://github.com/Raimondi/delimitMate.git
 #git clone https://github.com/docunext/closetag.vim.git
