@@ -26,8 +26,6 @@ git clone https://github.com/ervandew/supertab.git
 # Various commenting capabilities
 git clone https://github.com/scrooloose/nerdcommenter.git
 
-# Matches stuff... lol
-
 # Autocloses characters
 git clone https://github.com/Townk/vim-autoclose.git
 
@@ -43,6 +41,9 @@ git clone https://github.com/tpope/vim-fugitive.git
 
 # Pyflake as well as PEP8 within VIM
 git clone https://github.com/nvie/vim-flake8.git
+
+# For CoffeeScript, YAY!
+git clone https://github.com/kchmck/vim-coffee-script.git
 
 # Old plugins
 #git clone https://github.com/Raimondi/delimitMate.git
