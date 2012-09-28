@@ -45,6 +45,9 @@ git clone https://github.com/nvie/vim-flake8.git
 # For CoffeeScript, YAY!
 git clone https://github.com/kchmck/vim-coffee-script.git
 
+# For LESS
+git clone https://github.com/groenewege/vim-less.git
+
 # Conque allows a shell within Vim
 git clone https://github.com/lrvick/Conque-Shell.git
 
