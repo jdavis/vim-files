@@ -1,4 +1,5 @@
-sessions/*.vim
-bundle/
-*.swp
+*.sw[p|o]
 .DS_STORE
+sessions/
+bundle/
+undo/
