@@ -58,15 +58,21 @@ the steps below:
 
 1. Move existing vim files.
 
+```shell
         cd ~/
         mv .vim vim-old
+```
 
 2. Clone the repository as `.vim`.
 
+```shell
         git clone https://github.com/jdavis/vim-files.git .vim
+```
 
 3. Create the submodule and pull it.
 
+```shell
         cd .vim
         git submodule init
         git submodule update
+```
