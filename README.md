@@ -45,7 +45,7 @@ create the directory if it doesn't exist.
 Installation
 ------------
 
-To install and use, it is recommended to just use my [dotfiles](dotfiles), as
+To install and use, it is recommended to just use my [dotfiles][dotfiles], as
 all of the necessary settings have been added to the [vimrc][vimrc].
 
 [dotfiles]: https://github.com/jdavis/dotfiles
