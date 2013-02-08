@@ -48,6 +48,7 @@ Installation
 To install and use, it is recommended to just use my [dotfiles](dotfiles), as
 all of the necessary settings have been added to the [vimrc][vimrc].
 
+[dotfiles]: https://github.com/jdavis/dotfiles
 [vimrc]: https://github.com/jdavis/dotfiles/blob/master/.vimrc
 
 Alternative Installation
