@@ -2,4 +2,8 @@
 .netrwhist
 sessions/
 bundle/
+
+# Ignore supplementary dirs
+backup/
+swap/
 undo/
